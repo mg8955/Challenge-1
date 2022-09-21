@@ -1,5 +1,5 @@
 # 01 HTML, CSS, and Git: Code Refactor
-
+This challenge was about accessability. I changed the non-semantic HTML into semantic HTML which improved accessibility issues and the ease of reading the code. I changed all <divs> to descriptive HTML elements, added alt text to images
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
