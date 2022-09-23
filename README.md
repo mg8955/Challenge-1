@@ -1,5 +1,5 @@
 
-# Accessability overhaul and SEO improvements for Horiseon</br>
+# Accessibility overhaul and SEO improvements for Horiseon</br>
 
 #### By Michael Gostomski</br></br>
 
